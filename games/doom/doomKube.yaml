@@ -1,33 +1,33 @@
 apiVersion: v1
 kind: Service
 metadata:
-  name: keen-service
+  name: doom-service
   labels:
-    app: keen-deployment
+    app: doom-deployment
 spec:
   ports:
   - port: 80
     targetPort: 80
   selector:
-    app: keen-deployment
+    app: doom-deployment
   type: LoadBalancer
 ---
 apiVersion: apps/v1 
 kind: Deployment
 metadata:
-  name: keen-deployment
+  name: doom-deployment
 spec:
   selector:
     matchLabels:
-      app: keen-deployment
+      app: doom-deployment
   replicas: 1
   template:
     metadata:
       labels:
-        app: keen-deployment
+        app: doom-deployment
     spec:
       containers:
       - name: master
-        image: blaize/keen
+        image: alanduarte/dockergames
         ports:
         - containerPort: 80
