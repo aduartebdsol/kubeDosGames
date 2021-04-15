@@ -1,0 +1,162 @@
+==============================================================================
+DOS Games Archive Game Info Card                                     Version 3
+==============================================================================
+* General Information *
+
+Game title              : Command & Conquer
+Alternate title(s)      : Command & Conquer: Tiberian Dawn
+Developer               : Westwood Studios
+Publisher               : Virgin Interactive Entertainment
+Country of origin       : US
+Distribution model      : Commercial
+
+* Release Information *
+
+Release type            : Demo (interactive)
+Exclusive level(s)      : No (edited levels)
+Version                 : 1.0A
+Release date            : Nov 1995
+Language(s)             : English
+License file            : Not included
+License/Permissions     : Not stated
+
+* Distribution Information *
+
+Distribution type       : Digital download
+File name               : cc1demo1.zip
+File size               : 9 367 945 bytes
+Installer provided      : No
+Original location       : ftp://ftp.westwood.com/pub/cc1/previews/demo/
+Retrieved from          : http://files.bachsau.com/Archives/Westwood/
+
+Additional files        : 
+                          Demo movies add-on
+File name               : cc1demo2.zip
+File size               : 17 797 920 bytes
+Original location       : ftp://ftp.westwood.com/pub/cc1/previews/demo/
+Retrieved from          : http://files.bachsau.com/Archives/Westwood/
+
+Maintainer              : MrFlibble <mrflibble86@gmail.com>
+==============================================================================
+* Note for DOSBox users *
+
+This software is fully installed and configured to run in the DOSBox emulator.
+You can simply drag and drop the file C&C.BAT over the DOSBox icon to start
+playing. Experienced DOSBox users may choose other methods of startup.
+
+The software was configured and tested to work with the official DOSBox build
+v0.74-3 available from www.dosbox.com. It may or may not work with any other
+third-party DOSBox distributions that are available.
+
+For playing instructions and other information, please refer to the README.TXT
+and DEMOMAN.TXT files found in the C&C directory.
+==============================================================================
+* Unofficial fixes *
+
+This distribution of Command & Conquer Demo includes several unofficial fixes:
+
+a. Scenario fixes.
+
+   level 1 (scg01ea.ini) - fixed truncated line in mission briefing
+   level 2 (scg10ea.ini) - fixed truncated line in mission briefing
+                           GDI no longer treat civilians as hostile
+
+b. Sound fixes.
+
+   restored the "Right away sir!" response for infantry units
+==============================================================================
+* Note on the use of DOS/32 Advanced DOS Extender *
+
+This product uses DOS/32 Advanced DOS Extender technology.
+
+Copyright (C) 1996-2006 by Narech K. All rights reserved.
+
+DOS/32 Advanced DOS Extender is used instead of the standard DOS/4GW extender
+shipped with Command & Conquer Demo to improve stability and performance in
+DOSBox.
+
+DOS/32 Advanced DOS Extender is free software. Please see the LICENSE file in
+the C&C directory for license details.
+==============================================================================
+* Note on the freeware release *
+
+Electronic Arts, the current owner of the Command & Conquer franchise, made
+the full version of Tiberian Dawn available as a free download to celebrate
+the twelfth anniversary of the series in September 2007.
+
+The official download page used to be located at:
+http://www.commandandconquer.com/classic
+
+It is now accessible only via the Wayback Machine, as Electronic Arts removed
+the downloads to save hosting space once it made sure that enough fan sites
+mirrored the files, as explained here:
+https://forums.cncnet.org/topic/10479-are-the-first-three-cc-still-considered-freeware/
+
+The game can be downloaded from FilePlanet (as of 24 Jun 2020):
+https://www.fileplanet.com/archive/p-63497/Command-Conquer-Gold
+https://www.fileplanet.com/archive/p-8778/Command-Conquer-Gold
+https://www.fileplanet.com/archive/p-9746/Command-Conquer-The-First-Decade-Command-and-Conquer-Gold
+
+CnCNet hosts a patched version with an installer for modern Windows systems:
+https://cncnet.org/command-and-conquer
+
+Downloads from Nyerguds' site:
+http://nyerguds.arsaneus-design.com/cnc95upd/cc95p106/
+http://nyerguds.arsaneus-design.com/fullcnc/
+==============================================================================
+* Game related websites *
+
+Official website:
+http://www.commandandconquer.com/
+
+Developer website (access via the Wayback Machine):
+http://www.westwood.com/games/conquer1/cc1info.html
+
+Virgin Interactive website (access via the Wayback Machine):
+http://www.vie.com/low/games/cc.html
+
+Virgin Interactive French website (access via the Wayback Machine):
+http://www.virgininteractive.fr/html/lesjeux/strategie/c_c0/c_c0.html
+
+Virgin Interactive German website (access via the Wayback Machine):
+http://www.vid.de/games/tiberium/
+
+Command & Conquer Gold: Project 1.06 (unofficial patch for C&C95):
+http://nyerguds.arsaneus-design.com/cnc95upd/cc95p106/
+
+CnCNet (multiplayer community):
+https://cncnet.org/
+
+Command & Conquer six-level DOS CD demo (contains three extra Nod missions):
+https://archive.org/details/ccdemocd_201806
+
+NOTE: Some sites are only available as copies made by the Wayback Machine:
+http://web.archive.org/
+==============================================================================
+* Disclaimer *
+
+THE GAME DATA IN THIS ARCHIVE IS PROVIDED "AS IS" AND WITHOUT ANY EXPRESS OR
+IMPLIED WARRANTIES, INCLUDING AND NOT LIMITED TO ANY IMPLIED WARRANTIES OF
+MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+All game content is copyright to their respective owners.
+
+No files from the original software package provided by the developer and/or
+publisher were modified except for the configuration files needed to set up
+sound devices and input methods.
+
+This software was tested to work with the current official DOSBox build
+(v0.74-3) and was scanned by an antivirus/anti-malware tool.
+
+You use this software at your own risk. DOS Games Archive is not liable for
+any unwanted consequences that may arise from your using this software.
+==============================================================================
+* Download and online play *
+
+This game is available from DOS Games Archive at:
+https://www.dosgamesarchive.com/download/command-and-conquer/
+
+It can be played online at:
+https://www.dosgamesarchive.com/play/command-and-conquer/
+
+--- END OF FILE (2020/06/24) ---

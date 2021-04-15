@@ -1,0 +1,21 @@
+\S90
+MAIL
+\V-1
+\M40
+\S12
+\DN
+Please fax this form to: ^116
+(No Cover Sheet Required)
+
+
+\DY
+Or mail to:
+	^111
+	^112
+	^113
+	^114
+	^115
+
+\S12
+\DN
+^[PrtBody.txt]

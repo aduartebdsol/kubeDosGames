@@ -1,0 +1,33 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: commandconq-service
+  labels:
+    app: commandconq-deployment
+spec:
+  ports:
+  - port: 80
+    targetPort: 80
+  selector:
+    app: commandconq-deployment
+  type: LoadBalancer
+---
+apiVersion: apps/v1 
+kind: Deployment
+metadata:
+  name: commandconq-deployment
+spec:
+  selector:
+    matchLabels:
+      app: commandconq-deployment
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: commandconq-deployment
+    spec:
+      containers:
+      - name: master
+        image: alanduarte/dockergamescommandconq
+        ports:
+        - containerPort: 80

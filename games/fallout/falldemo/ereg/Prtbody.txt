@@ -1,0 +1,52 @@
+===========================================================================
+\M0
+\R75
+Date: ^181/^182/^180	Code: ^100
+Product Name: ^104	Event Number: ^173
+SKU: ^109
+Rev Number: ^110
+---------------------------------------------------------------------------
+\R23\L26
+	First Name:	^1 
+	MI:	^2 
+	Last Name:	^3
+	Address:	^7
+	Address2:	^8
+	City:		^9
+	State:		^10 
+	Zip:	^11
+	Country:	^12
+---------------------------------------------------------------------------
+	Phone:	^13 
+	Ext:	^14
+	Fax:	^15
+	Date Purchased:	^20
+	Birthdate:	^22
+	Sex:	^23
+	E-Mail:	^16
+	Service:	^17
+	Notify E-Mail:	^19
+	Notify Mail:	^24
+	Buy Through Mail:	^300
+	Operating Systems:	^301	
+	Favorite Games:	^302
+	Games Purchased:	^303
+	Game Platforms:	^304
+	Have:	^80 (^81), ^82 (^83), ^84, ^85
+===========================================================================
+\R23\L25\L35
+	Processor:	^206
+	Processor Speed:	^208
+	Co-Processor (Code):	^209 (^210)
+	Physical Memory:	^211
+	Disk Space-Total:	^213	Free: ^214
+	Fixed Disk Space-Total:	^215	Free: ^216
+	Floppy Drive 1:	^218
+	Floppy Drive 2:	^217
+	Addressing Mode:	^219
+	OS Version:	^222	DOS Version: ^223
+	Mouse Type:	^227
+	Video Type:	^228
+	Display Size/Colors:	^231/^232
+	Printer Type/Resolution:	^233
+	Have:	^241, ^242, ^243, ^244, ^245, ^246, ^247
